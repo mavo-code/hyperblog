@@ -51,6 +51,10 @@ body
     color: blue;
 }
 
+.nav-container__item a:active{
+    color: red;
+}
+
 #container
 {
     width: 70%;
